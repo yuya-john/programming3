@@ -1,0 +1,7 @@
+# Fdb version 3
+["pdflatex"] 0 "sample.tex" "sample.pdf" "sample" 0
+  "sample.aux" 1664777892 32 3985256e7290058c681f74d7a3565a19 ""
+  "sample.tex" 1664776360 1374 8ec13f99028eea0c9ef1231a09e5410a ""
+  (generated)
+  "sample.log"
+  "sample.pdf"
